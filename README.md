@@ -1,0 +1,2 @@
+# MayaScript
+about maya scripts 
